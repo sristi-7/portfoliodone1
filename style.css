@@ -1,0 +1,26 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+}
+*{
+    border:dashed;
+}
+ .header{
+     display:flex;
+     justify-content:space-evenly;
+     background-color: yellow;
+     
+ }
+ .grid{
+
+     display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+ 
+
+
